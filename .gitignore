@@ -18,6 +18,9 @@
 .env.test.local
 .env.production.local
 
+# 10:31 AM February 5, 2021 by Драган Ћајић
+.eslintcache
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
